@@ -1,0 +1,22 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
+	"dpi_scale": 1.0,
+	"draw_centered": false,
+	"font_face": "Consolas YaHei",
+	"font_size": 13,
+	"gutter": true,
+	"ignored_packages":
+	[
+		"auto-save",
+		"Markdown"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
+	"word_wrap": true
+}

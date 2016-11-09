@@ -1,0 +1,35 @@
+<snippet>
+    <content><![CDATA[
+        .l-gd:after{clear:both;display:table;content:""}
+        .l-gd .u1,.l-gd .u10,.l-gd .u11,.l-gd .u12,.l-gd .u13,.l-gd .u14,.l-gd .u15,.l-gd .u16,.l-gd .u17,.l-gd .u18,.l-gd .u19,.l-gd .u2,.l-gd .u20,.l-gd .u21,.l-gd .u22,.l-gd .u23,.l-gd .u24,.l-gd .u3,.l-gd .u4,.l-gd .u5,.l-gd .u6,.l-gd .u7,.l-gd .u8,.l-gd .u9,.l-gd .ua{float:left;min-height:1px}
+        .l-gd .u1{width:4.1667%}
+        .l-gd .u2{width:8.3333%}
+        .l-gd .u3{width:12.5%}
+        .l-gd .u4{width:16.6667%}
+        .l-gd .u5{width:20.8333%}
+        .l-gd .u6{width:25%}
+        .l-gd .u7{width:29.1667%}
+        .l-gd .u8{width:33.3333%}
+        .l-gd .u9{width:37.5%}
+        .l-gd .u10{width:41.6667%}
+        .l-gd .u11{width:45.8333%}
+        .l-gd .u12{width:50%}
+        .l-gd .u13{width:54.1667%}
+        .l-gd .u14{width:58.3333%}
+        .l-gd .u15{width:62.5%}
+        .l-gd .u16{width:66.6667%}
+        .l-gd .u17{width:70.8333%}
+        .l-gd .u18{width:75%}
+        .l-gd .u19{width:79.1667%}
+        .l-gd .u20{width:83.3333%}
+        .l-gd .u21{width:87.5%}
+        .l-gd .u22{width:91.6667%}
+        .l-gd .u23{width:95.8333%}
+        .l-gd .u24{width:100%}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>wgrid</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>wgrid snippet</description>
+</snippet>

@@ -1,0 +1,25 @@
+[{
+    "keys": ["f12"],
+    "command": "open_in_browser"
+}, {
+    "keys": ["j", "j"],
+    "command": "exit_insert_mode"
+}, {
+    "keys": ["control+alt+;"],
+    "command": "align_tab",
+    "args": {
+        "user_input": ":/f",
+    }
+}, {
+    "keys": ["control+alt+="],
+    "command": "align_tab",
+    "args": {
+        "user_input": "=/f",
+    }
+}, {
+    "keys": ["control+alt+."],
+    "command": "align_tab",
+    "args": {
+        "user_input": "=>/f",
+    }
+}]

@@ -1,0 +1,13 @@
+{
+  "lesscCommand": false,
+  "lessBaseDir": "./",
+  "outputDir": "./",
+  "outputFile": "", //[example.css] if left blank uses same name of .less file
+  "minify": false,
+  "minName": false,
+  "autoCompile": false,
+  "showErrorWithWindow": true,
+  "main_file": false,
+  "ignorePrefixedFiles": false,
+  "createCssSourceMaps": false
+}

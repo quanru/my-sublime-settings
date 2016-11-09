@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+/* 最小化的reset，根据每条能看出浏览器的预置样式 */
+*, *:before, *:after{ box-sizing: border-box; /* mobile only */}
+body{ margin: 0;}
+table { border-collapse: collapse; border-spacing: 0;}
+h1,h2,h3{ margin-top: 0; margin-bottom: 0; font-weight: normal;}
+ul, ol { list-style: none; padding-left: 0; }
+dl, ul, ol, p{ margin-top: 0; margin-bottom: 0;}
+dd{ margin-left: 0;}
+input{ margin: 0; padding: 0;}
+textarea, button{ padding: 0;}
+a { text-decoration: none; }
+img { border: 0; }
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>wreset</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.css.less</scope> -->
+    <description>wreset snippet</description>
+</snippet>
